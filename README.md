@@ -22,7 +22,7 @@
  <div align="center">
   <a href="https://github.com/gabrielpporzia">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielpporzia&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpporziai&layout=compact&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpporzia&layout=compact&theme=radical"/>
   </a>
 </div>
 <br>
