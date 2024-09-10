@@ -43,5 +43,4 @@
 
 
 <br>
-
-![Snack animation](https://github.com/gabrielpporzia/abrielpporzia/blob/output/github-contribution-grid-snack.svg)
+![Snake animation](https://github.com/gabrielpporzia/gabrielpporzia/blob/output/github-contribution-grid-snake.svg)
