@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Gabriel Phillipe Porzia Elias
 
 - 🔭 I am currently working with back-end Software Engineering
-- 🌱 I’m currently studying Java
+- 🌱 I’m currently studying Java / Kotlin
 - 😄 Pronouns: he/him
 
 <br>
